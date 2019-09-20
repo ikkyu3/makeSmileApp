@@ -4,4 +4,4 @@
 + pip install -r requirements.txt
 + python app.py
 
-copyright@myjlab,みいみ,一休,サッチー
+copyright@myjlab,みいみ,ikkyu,サッチー
